@@ -1,6 +1,5 @@
 # Object-Oriented Programming (OOP) with Java
 
-![Java OOP Logo](your-logo-url.png)
 
 Welcome to the Object-Oriented Programming (OOP) with Java repository! This repository serves as a comprehensive resource for mastering OOP principles using the Java programming language. Whether you're a beginner looking to understand the fundamentals of OOP in Java or an experienced developer seeking to enhance your OOP skills, you'll find valuable content, examples, and resources here.
 
